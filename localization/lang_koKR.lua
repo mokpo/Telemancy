@@ -12,6 +12,7 @@ if GetLocale() == "koKR" then
 	L["TELE_FELSOUL_HOLD"] = "지옥영혼 요새";
 	L["TELE_WANING_CRESENT"] = "기우는 초승달";
 	L["TELE_TWILIGHT_VINEYARDS"] = "황혼의 포도원";
+	L["TELE_EVERMOON_TERRACE"] = "영원달 정원";
 	L["TELE_ACTIVE"] = "상태: 활성";
 	L["TELE_INACTIVE"] = "상태: 비활성";
 end
